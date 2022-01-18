@@ -124,6 +124,7 @@ export default function BottomWidgetFactory(
   FilterAnimationController,
   LayerAnimationController
 ) {
+  debugger;
   const BottomWidget = props => {
     const {
       datasets,

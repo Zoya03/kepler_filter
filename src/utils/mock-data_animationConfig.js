@@ -1,4 +1,4 @@
-export const mockData_animationConfig = {
+export const mockData_animationConfig ={
     "animationConfig": {
         "domain": null,
         "currentTime": null,
